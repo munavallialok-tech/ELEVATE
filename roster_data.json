@@ -1,0 +1,92 @@
+{
+  "players": {
+    "77": {
+      "name": null,
+      "history": [
+        {
+          "date": "2026-11-14",
+          "video_label": "Clip analyzed 11/14/2026",
+          "rating": 10,
+          "note": "Scored a clinical hat-trick with sharp close control and composed finishing.",
+          "distance_added": 0.53,
+          "top_speed": 55.46
+        }
+      ]
+    },
+    "88": {
+      "name": null,
+      "history": [
+        {
+          "date": "2026-11-14",
+          "video_label": "Clip analyzed 11/14/2026",
+          "rating": 9,
+          "note": "Scored an intelligent near-post goal and slipped a crisp assist for the fourth.",
+          "distance_added": 0.53,
+          "top_speed": 55.46
+        }
+      ]
+    },
+    "51": {
+      "name": null,
+      "history": [
+        {
+          "date": "2026-11-14",
+          "video_label": "Clip analyzed 11/14/2026",
+          "rating": 9,
+          "note": "Delivered a pinpoint free-kick assist and a superb diagonal pass for the fifth.",
+          "distance_added": 0.53,
+          "top_speed": 55.46
+        }
+      ]
+    },
+    "62": {
+      "name": null,
+      "history": [
+        {
+          "date": "2026-11-14",
+          "video_label": "Clip analyzed 11/14/2026",
+          "rating": 8,
+          "note": "Beat his marker with sharp pace on the wing to set up the second goal.",
+          "distance_added": 0.53,
+          "top_speed": 55.46
+        }
+      ]
+    },
+    "71": {
+      "name": null,
+      "history": [
+        {
+          "date": "2026-11-14",
+          "video_label": "Clip analyzed 11/14/2026",
+          "rating": 8,
+          "note": "Timed late runs into the penalty area well and smashed home the second goal.",
+          "distance_added": 0.53,
+          "top_speed": 55.46
+        }
+      ]
+    },
+    "38": {
+      "name": "ALOK",
+      "history": [
+        {
+          "date": "2026-11-14",
+          "video_label": "Clip analyzed 11/14/2026",
+          "rating": 7,
+          "note": "Circulated possession calmly and linked play cleanly around the penalty area.",
+          "distance_added": 0.53,
+          "top_speed": 55.46
+        }
+      ]
+    }
+  },
+  "team_history": [
+    {
+      "date": "2026-11-14",
+      "video_label": "Clip analyzed 11/14/2026",
+      "team_rating": 9,
+      "team_note": "United dominated possession, carved open a stubborn low block repeatedly, and finished ruthlessly for a 5-0 win.",
+      "team_distance_added": 0.53,
+      "team_top_speed": 55.46
+    }
+  ]
+}

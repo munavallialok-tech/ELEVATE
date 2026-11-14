@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Generated local "databases" — demo accounts and AI-identified roster data.
+# These are created automatically on first run; don't commit your own.
+users.json
+roster_data.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# YOLO / Ultralytics runtime artifacts (model weights auto-download on first run)
+*.pt
+*.mp4
+runs/
+
+# OS / editor cruft
+.DS_Store
+.vscode/

@@ -1,0 +1,14 @@
+{
+  "munavallialok@gmail.com": {
+    "name": "ALOK MUNAVALLI",
+    "role": "coach",
+    "salt": "c108c6d9ea15af1fcd53315b677602de",
+    "hash": "17377522f9a597afbb90d6641dc877fe83b1c31a426c20df09035b86e0c4630a"
+  },
+  "drdoom@doom.fc": {
+    "name": "Dr Doom",
+    "role": "coach",
+    "salt": "ba8c4114061fa5331ca1d51f1904f774",
+    "hash": "f56097ef7616ae581c5d537067f5362c490daff184df2f9ab1dc12e5445ee3c2"
+  }
+}
